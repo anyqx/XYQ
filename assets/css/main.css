@@ -2392,6 +2392,10 @@ input, select, textarea {
 			width: 50%;
 		}
 
+			.featured-img {
+				height: 12em;
+				border-radius: 0.1em;
+			}
 			.features li:nth-child(1) {
 				background-color: rgba(0, 0, 0, 0.035);
 			}
