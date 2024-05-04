@@ -1,1 +1,2 @@
 # XYQ
+open index.html
